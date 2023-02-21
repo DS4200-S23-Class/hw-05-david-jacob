@@ -1,0 +1,19 @@
+body{
+    font-family: Arial;
+}
+
+.center{
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+#left-column {
+    flex:60%;
+}
+
+#right-column {
+    flex:40%;
+}
