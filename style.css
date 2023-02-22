@@ -17,3 +17,24 @@ body{
 #right-column {
     flex:40%;
 }
+
+circle:hover {
+    fill: red;
+}
+
+rect:hover {
+    fill: hotpink;
+}
+
+.border{
+    stroke:aquamarine;
+    stroke-width: 4px;
+}
+
+.tooltip {
+    position: absolute;
+    background-color: grey;
+    border: solid;
+    padding: 5px;
+}
+
